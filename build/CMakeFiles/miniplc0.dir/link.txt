@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/miniplc0.dir/main.cpp.o  -o miniplc0 libminiplc0_lib.a 3rd_party/fmt/libfmt.a 

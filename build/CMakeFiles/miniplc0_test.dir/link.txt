@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/miniplc0_test.dir/tests/test_main.cpp.o CMakeFiles/miniplc0_test.dir/tests/test_tokenizer.cpp.o CMakeFiles/miniplc0_test.dir/tests/test_analyser.cpp.o  -o miniplc0_test libminiplc0_lib.a 3rd_party/fmt/libfmt.a 
